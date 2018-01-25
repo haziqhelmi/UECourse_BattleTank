@@ -11,3 +11,4 @@ An open world, head to head tank fight with simple AI, terrain, and advanced con
 * Camera input binding
 * 3rd person camera fixed
 * Basic game UI and main menu
+* Barrel elevation
