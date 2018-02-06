@@ -22,3 +22,4 @@ An open world, head to head tank fight with simple AI, terrain, and advanced con
 * Refactoring
 * Post-refactoring
 * Added sideways friction, improved tank aimaing, AI tank tweaked
+* Turret rotation fixed
